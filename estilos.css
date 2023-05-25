@@ -158,11 +158,11 @@ main {
     .btn-copiar{
         margin: auto;
         width: 100%;
-        
     }
 
     .mensaje {
-        background-size: 80%;
+        background-size: 60%;
+        width: fit-content;
     }
 
     .text-detail i {
