@@ -162,7 +162,7 @@ main {
 
     .mensaje {
         background-size: 60%;
-        margin-left: 10px;
+        padding-inline: 10px;
     }
 
     .text-detail i {
