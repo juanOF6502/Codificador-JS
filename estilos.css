@@ -68,6 +68,7 @@ main {
     color: #0A3871;
     border: none;
     resize: none;
+    text-align: center;
 }
 .mensaje:focus {
     outline: none;
@@ -161,8 +162,8 @@ main {
     }
 
     .mensaje {
+        font-size: 16px;
         background-size: 60%;
-        padding-inline: 10px;
     }
 
     .text-detail i {
